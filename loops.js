@@ -25,3 +25,4 @@ do {
     console.log("I run once regardless.")
   }
 } while (incrementVariable() < 10);
+doWhileLoop(10)
