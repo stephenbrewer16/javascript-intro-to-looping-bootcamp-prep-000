@@ -24,4 +24,5 @@ function whileLoop(n) {
     console.log("I run once regardless.")
     incrementVariable()
 } while (incrementVariable() < num);
+return i
 }
